@@ -1,6 +1,7 @@
 # COMPSYS 302: Project 2
 
-For the second part of COMPSYS 302 in 2024 we made, used and integrated 3 different DNN models to create a Sign Language Interpreter inside our custom made GUI.
+This project is the second part of COMPSYS 302 in 2024, made by Mardee, Jenny and Teresa. 
+In this project, we used and integrated 3 different DNN models to create a Sign Language Interpreter inside our custom made GUI.
 
 Our team initally, wanted to use inceptionV3 and resnet18 as our 2 models, so our first version of our project had implemented these 2 models, but later discovered that these models have a large number of parameters which took a long time on our slow devices. In hopes of speeding our work progress we decided to use MnasNet, MmobileNet and a Custom model in our final version of our project.
 
